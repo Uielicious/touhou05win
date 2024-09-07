@@ -29,7 +29,7 @@ void CGlobalVariableAndStatistics::LoadProgramConfig()
 	m_textCodePage=932;
 	m_bUseSystemFont=false;
 	m_fontCharset=130;
-	m_binitCollisionArea=false;
+	m_binitCollisionArea=true;
 	m_binitPracticeCollisionArea=true;
 	FILE *fp=fopen("config.ini","r");
 	if (fp==NULL)

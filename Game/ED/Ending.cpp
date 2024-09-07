@@ -192,30 +192,60 @@ int CEnding::Step()
 						sscanf((char *)m_pScript+3,"%s",s);
 						m_pScript+=3+(int)strlen(s);
 						strlwr(s);
-						int idx=CGame::s_pCurGame->m_th5Dat1.GetChildFileIndex(s);
-						C2DImage *pImg;
-						CCommonFunctionGraphic::LoadPIFromDat(&pImg,m_palette,&CGame::s_pCurGame->m_th5Dat1,s);
-						C2DImage **ppTar;
-						if (strstr(s, "bk") != NULL || strcmp(s, "white.pi") == 0) {	//hack here
-							ppTar = &m_pBGImage;
-							if (strcmp(s, "edbk0.pi") == 0)
-								m_bgnum = 0;
-							else if (strcmp(s, "edbk1.pi") == 0)
-								m_bgnum = 1;
-							else if (strcmp(s, "edbk2.pi") == 0)
-								m_bgnum = 2;
-							else
-								m_bgnum = -1;
+						int fldx = CGame::s_pCurGame->m_modDat.GetChildFileIndex(s);
+						if (fldx != -1)
+						{
+							C2DImage* pImg;
+							CCommonFunctionGraphic::LoadPIFromDat(&pImg, m_palette, &CGame::s_pCurGame->m_modDat, s);
+							C2DImage** ppTar;
+							if (strstr(s, "bk") != NULL || strcmp(s, "white.pi") == 0) {	//hack here
+								ppTar = &m_pBGImage;
+								if (strcmp(s, "edbk0.pi") == 0)
+									m_bgnum = 0;
+								else if (strcmp(s, "edbk1.pi") == 0)
+									m_bgnum = 1;
+								else if (strcmp(s, "edbk2.pi") == 0)
+									m_bgnum = 2;
+								else
+									m_bgnum = -1;
 
+							}
+							else
+							{
+								ppTar = &m_pCenterImageCandi;
+								//m_curCenterImgIdx=0;
+							}
+							if (*ppTar != NULL)
+								(*ppTar)->Destroy();
+							*ppTar = pImg;
 						}
 						else
 						{
-							ppTar=&m_pCenterImageCandi;
-							//m_curCenterImgIdx=0;
+							int idx = CGame::s_pCurGame->m_th5Dat1.GetChildFileIndex(s);
+							C2DImage* pImg;
+							CCommonFunctionGraphic::LoadPIFromDat(&pImg, m_palette, &CGame::s_pCurGame->m_th5Dat1, s);
+							C2DImage** ppTar;
+							if (strstr(s, "bk") != NULL || strcmp(s, "white.pi") == 0) {	//hack here
+								ppTar = &m_pBGImage;
+								if (strcmp(s, "edbk0.pi") == 0)
+									m_bgnum = 0;
+								else if (strcmp(s, "edbk1.pi") == 0)
+									m_bgnum = 1;
+								else if (strcmp(s, "edbk2.pi") == 0)
+									m_bgnum = 2;
+								else
+									m_bgnum = -1;
+
+							}
+							else
+							{
+								ppTar = &m_pCenterImageCandi;
+								//m_curCenterImgIdx=0;
+							}
+							if (*ppTar != NULL)
+								(*ppTar)->Destroy();
+							*ppTar = pImg;
 						}
-						if (*ppTar!=NULL)
-							(*ppTar)->Destroy();
-						*ppTar=pImg;
 					}
 					break;
 				case '=':

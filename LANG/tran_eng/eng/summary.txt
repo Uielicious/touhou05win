@@ -1,0 +1,22 @@
+You failed to defeat the boss！！　　　　　　　×　０．０
+Player Penalty（６ Initial Lives）　　　　　　　×　０．３
+Player Penalty（５ Initial Lives）　　　　　　　×　０．５
+Player Penalty（４ Initial Lives）　　　　　　　×　０．７
+Continue Penalty（１×）　　　　　　　　　×　０．８
+Continue Penalty（２×）　　　　　　　　　×　０．６
+Continue Penalty（３×）　　　　　　　　　×　０．４
+Difficulty Modifier（Ｅａｓｙ）　　　　　　　×　０．５
+Difficulty Modifier（Ｎｏｒｍａｌ）　　　　　×　１．０
+Difficulty Modifier（Ｈａｒｄ）　　　　　　　×　１．２
+Difficulty Modifier（Ｌｕｎａｔｉｃ）　　　　×　１．４
+Difficulty Modifier（Ｅｘｔｒａ）　　　　　　×　２．０
+ＳＴＡＧＥ　Ｂｏｎｕｓ
+ＤＲＥＡＭ　Ｂｏｎｕｓ
+Graze Bonus ×　５０
+　　　×　Point Items
+　　　＋　No-Miss Bonus
+　　　＋　No-Bomb Bonus
+　　　　　ＴＯＴＡＬ
+ＡＬＬ　Ｃｌｅａｒ　　
+Player　× １００００
+Congratulations！！

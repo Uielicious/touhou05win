@@ -1,0 +1,76 @@
+\t0 \p,white.pi \p= \fi1 
+\t200 \p,edbk0.pi \p= \p,ed06.pi \wi2 
+\==0,2 \c11
+Shinki:You'restrong...@t\s\c15
+Yuuka:Oh,NOWyousaythat.\s\c11
+Shinki:Anyway,whatdidyoucometoMakaifor?@t\s\c15
+Yuuka:LikeIsaid,sinceIhadtimetospare \n
+Icametoplay. \s\c11
+Shinki:Areyouserious?\s\c15
+Yuuka:Ilikepickingontheweak.@h\s\c11
+Shinki:(Sobsob) \s\c15
+Yuuka:Well,it'sabouttimeformetohead \n
+back.@h \s\c11
+Shinki:Really?Thenplease,withallduehaste!@h\s\c15
+Yuuka:Bye,Imightcomebacksomeday. \s\c11
+Shinki:No,pleasedon'tevercomebackagain.\s\c
+\wo4 \m,ed02 \p,edbk1.pi \p= \p,ed06.pi \=1 \wi2  \c
+Aftersometime...\s 
+\p,ed14.pi
+\==0,4 \c15
+Yuuka:Hmmm,magiclookssowonderful!\s
+Yuuka:Iwonder,canIlearntousemagictoo? \s
+Yuuka:IfIcan,thenIcouldbecomethemost \n
+powerfulbyfar! \s
+Yuuka:It'sdecided!I'llgiveitatry!@h\s
+Yuuka:Hmm...\s
+Yuuka:But,howdoesoneusemagicanyway?\s
+Yuuka:Likethis?\s
+Yuuka:Hmm.\s
+Yuuka:Itcouldbedangeroustopracticehere,\n
+Ishouldgosomewherewithmorespace.\s\c
+\==1,4
+Soonafter...\s\c15
+Yuuka:Thisplaceshouldbeperfect.\s
+Yuuka:Eeh-ii!... \w1
+\wi1 \s
+Yuuka:Terya!!... \w1
+\fi1 \s
+Yuuka:Hmm... \s
+Yuuka:Somehow,thatdoesn'tseemquiteright...\s
+Yuuka:Amamika-Muimui-Torte-De-Pui!! \w1
+\fi1
+\wi1
+\s
+Yuuka:Hmm... \s
+Yuuka:IguessIdon'tunderstandhowtouseit\n
+afterall...\s
+Yuuka:・・・・・・\s
+Yuuka:Cometothinkaboutit,ifIremember \n
+correctly,somewherearoundhere... \s
+\==2,8
+Yuuka:Ah,theresheis!@h \s
+Yuuka:ThatgirlisamagicianasIrecall.@h \s
+Yuuka:I'llstealthetricktousingmagic \n
+fromher! \s
+Yuuka:・・・・・・\s
+Yuuka:IfI'mlikethisandfollowherinsecret, \n
+I'lldefinitelylearnhowtousemagic!@h \s
+Yuuka:I'vemademyselfuptolooklikeamagician, \n
+too. \s
+Yuuka:AndIsaythat,butordinarypeoplecan't \n
+seeme.@h \s
+Yuuka:・・・・・・\s
+Yuuka:Isurehopesheusessomesoon.@h \s\c11
+Marisa:・・・・・・@t\s
+Marisa:Somehow,Igettheunpleasantfeeling \n
+thatI'mbeingwatched...@t@t\s\c
+ToYuuka,poweriseverything.Itseemsthatshe\n
+begantopursuemagic,andbecameevenmoreof \n
+atroublesomeindividual.Oh,well... \s
+　　　　============================================\n
+　　　　　　　　ＧＯＯＤ　ＥＮＤＩＮＧ　＃４\n
+　　　　　　　Ｃｏｎｇｒａｔｕｌａｔｉｏｎｓ@!!\n
+　　　　============================================\s
+\fm4 \fo10 
+\$

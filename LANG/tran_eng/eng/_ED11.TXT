@@ -1,0 +1,79 @@
+\t0 \p,white.pi \p= \fi1 
+\t200 \p,edbk0.pi \p= \p,ed06.pi \wi2 
+\==0,2 \c11
+Shinki:I'velost...\s\c15
+Marisa:You'renotthatpowerful,areyou?\s\c11
+Shinki:Anyway,whatdidyoucometoMakaifor?@t\s\c15
+Marisa:Eh?Didn'tItellyoufromthestart?\s\c11
+Shinki:?\s\c15
+Marisa:IfIdefeatthegodofMakai,\n
+I'llbecomeagodmyself.@H\s\c11
+Shinki:Huh?@t\s\c15
+Marisa:...Well,Ineveractuallysaidthat,but...\s\c11
+Shinki:Hey!@20\s
+Shinki:A-anyway,youcan'tbecomeagod\n
+evenifyoudefeatme.@t\s\c15
+Marisa:Really?\s\c11
+Shinki:Really,really.@t\s\c15
+Marisa:Well,Iwasn'tgoingto,anyway.@h\s\c11
+Shinki:Phew...@t\s\c15
+Marisa:IjustcametoMakaiforsightseeing.@h\s\c11
+Shinki:What'swiththat?@t\s\c15
+Marisa:Well,Icametoplay,really.\s
+Marisa:Well,sinceI'mwornoutfromplaying,\n
+I'llbegoinghomesoon.@h\s\c11
+Shinki:Yes,pleasedoso...\s\c15
+Marisa:Seeya.\s\c11
+Shinki:Phew...\s\c
+\wo4 \m,ed01 \p,edbk1.pi \p= \p,ed11.pi \=3 \wi2  \c
+Aftersometime...\s 
+\==0,4 \c15
+Marisa:I'vegottenprettystrong,huh.\s
+Marisa:Ilearnedvarioustypesofmagic\n
+whenIwenttoMakai,too.\s
+Marisa:・・・・・・\s
+Marisa:WhereshouldIgonext?\s
+Marisa:Hmm...\s
+Marisa:Maybethespiritworld?@H\s
+Marisa:WhatshouldIdo?\s
+\==1,4
+Marisa:...Well,that'swhatI'vebeenpondering.\n
+Whatdoyouthink,Reimu?\s\c11
+Reimu:Didyoucallmeoverjusttoaskthis?@t\s\c15
+Marisa:Well,yeah.@t\s\c11
+Reimu:Ifyouwanttogotothespiritworld,\n
+Icansendyouthere!\s\c15
+Marisa:...I'llpass.@t\s\c11
+Reimu:Atanyrate,wow,youwereactuallyliving\n
+inaproperhouse.\s
+Reimu:Sinceyoualwayshatchedoutofsomeplace,\n
+Iwassureyouweresomekindofmaggotor\n
+something.\s\c15
+Marisa:Hey,you!@20\s\c11
+Reimu:Ifyou'rethatbored,whydon'tyoucomeover\n
+andexterminateallthedemonsatmyplace?\s\c15
+Marisa:Hmm,evenso,they'resmallfry,right?\s\c11
+Reimu:That'strue,but...aren'tyoubored?\s\c15
+Marisa:Iam,soIguessI'lldojustalittle.\s\c11
+Reimu:Thanks.@h\s\c
+\==3,4
+Abitlater...\s
+\==2,4 \c11
+Reimu:Itlookssomewhatlikethedemonsare\n
+runningawayfromyou...\s
+Reimu:AreyoufamousinMakaiorsomething?\s\c15
+Marisa:Ahaha...@t\s\c11
+Reimu:Well,atleastit'sconvenient.\s\c15
+(Shewouldn'tbelievemeifItoldher\n
+IbeatthegodofMakai...)\s\c11
+Reimu:Marisa,overhere,too,please.\s\c15
+Marisa:Okay!\s\c
+Eventually,thoughtheshrinehadbeenteemingwith\n
+demons,itseemsthatdemonexterminationendedup\n
+beingalittlebitfun.Oh,well...\s
+　　　　============================================\n
+　　　　　　　　ＧＯＯＤ　ＥＮＤＩＮＧ　＃２\n
+　　　　　　　Ｃｏｎｇｒａｔｕｌａｔｉｏｎｓ@!!\n
+　　　　============================================\s
+\fm4 \fo10 
+\$

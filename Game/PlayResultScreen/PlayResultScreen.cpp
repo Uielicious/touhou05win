@@ -375,7 +375,8 @@ namespace th5w {
 		}
 		if (CGame::GVar().m_bUseMod)
 		{
-			int fldx = CGame::s_pCurGame->m_modDat.GetChildFileIndex("PlayResult.txt");
+			//int fldx = CGame::s_pCurGame->m_modDat.GetChildFileIndex("PlayResult.txt"); //MysticTK doesn't like filenames with more than 8 chars
+			int fldx = CGame::s_pCurGame->m_modDat.GetChildFileIndex("result.txt");
 			if (fldx != -1)
 			{
 				for (int i = 0; i < 13; i++) {

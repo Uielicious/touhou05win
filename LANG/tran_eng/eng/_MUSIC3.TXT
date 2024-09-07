@@ -1,0 +1,280 @@
+No.1 << 幻想郷  ～ Lotus Land Story >>
+     東方幻想郷    Title theme        
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+No.2       << Witching Dream >>       
+     東方幻想郷  Reimu's Stage 1 theme
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+No.3       << Selene's Light >>       
+     東方幻想郷 Marisa's Stage 1 theme
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+No.4  <<装飾戦  ～ Decoration Battle>>
+     東方幻想郷  Orange's theme       
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+No.5      << Break the Sabbath >>     
+     東方幻想郷  Stage 2 theme        
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+No.6  << 紅響曲  ～ Scarlet Phoneme >>
+     東方幻想郷  Kurumi's theme       
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+No.7         << Bad Apple!! >>        
+     東方幻想郷  Stage 3 theme        
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+No.8  << 霊戦  ～ Perdition Crisis >> 
+     東方幻想郷  Elly's theme         
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+No.9      << アリスマエステラ >>      
+     東方幻想郷  Stage 4 theme        
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+No.10  << 少女綺想曲  ～ Capriccio >> 
+     東方幻想郷  Reimu's theme        
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+No.11 << 星の器  ～ Casket of Star >> 
+     東方幻想郷  Marisa's theme       
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+No.12        << Lotus Love >>         
+     東方幻想郷  Stage 5 theme        
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+No.13 <<眠れる恐怖 ～Sleeping Terror>>
+     東方幻想郷  Yuuka's 1st theme    
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+No.14         << Dream Land >>        
+     東方幻想郷  Final Stage theme    
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+No.15  << 幽夢  ～ Inanimate Dream >> 
+     東方幻想郷  Yuuka's 2nd theme    
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+No.16    << 禁じざるをえない遊戯 >>   
+     東方幻想郷  Extra Stage theme    
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+No.17 <<メイド幻想  ～ Icemilk Magic>>
+     東方幻想郷  Mugetsu's theme      
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+No.18 << かわいい悪魔  ～ Innocence >>
+     東方幻想郷  Gengetsu's theme     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+No.19           << Days >>            
+     東方幻想郷  Bad Ending theme     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+No.20         << Peaceful >>          
+     東方幻想郷  Good Ending theme    
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+No.21      << Arcadian Dream >>       
+     東方幻想郷  Staff Roll theme     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+No.22        << 幻想の住人 >>         
+    東方幻想郷 Name Registration theme
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+No.23        << Lotus Road >>         
+     東方幻想郷  Unused music 1       
+;                                     
+I was going to use this as the        
+stage 1 theme. But, I thought         
+it was a little too light, so         
+I didn't use it...                    
+;                                     
+;                                     
+;                                     
+No.24       << Dreamy Pilot >>        
+     東方幻想郷  Unused music 2       
+;                                     
+I was going to use this as the        
+stage 4 theme. I thought it was       
+kind of air-headed, though, so        
+I threw it out. But, maybe it's       
+not that bad?                         
+;                                     
+;                                     
+No.25      << Incomplete Plot >>      
+     東方幻想郷  Unused music 3       
+;                                     
+I was going to use this as the        
+stage 5 theme. But for some reason    
+I threw it out. (lol)                 
+It's pretty nice, too...              
+;                                     
+;                                     
+;                                     
+No.26        << Border Land >>        
+     東方幻想郷  Unused music 4       
+;                                     
+I was going to use this as the        
+stage 6 theme. I thought the last     
+stage theme should be a bit more      
+mellow, though, so I threw it out.    
+;                                     
+;                                     
+;                                     
+No.27   << Magic Shop of Raspberry >> 
+     東方幻想郷  Unused music 5       
+;                                     
+I was going to use this as the        
+extra stage theme, but I thought      
+the extra stage song should be        
+a little lighter, so I cried and      
+cried and threw it out.               
+;                                     
+;                                     
+No.28       << Crescent Dream >>      
+     東方幻想郷  Unused music 6       
+;                                     
+I was going to use this for the       
+staff roll.                           
+It's not STG-esque, though, so I      
+threw it out.                         
+;                                     
+;                                     
+;                                     

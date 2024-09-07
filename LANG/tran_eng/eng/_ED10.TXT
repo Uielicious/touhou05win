@@ -1,0 +1,116 @@
+\t0 \p,white.pi \p= \fi1 
+\t200 \p,edbk0.pi \p= \p,ed06.pi \wi2 
+\==0,2 \c15
+Reimu:Lookslikeyourbarkislouderthanyourbite!\s\c11
+Shinki:Howcouldyoubethisstrong?@t\s\c15
+Reimu:It'snormal,normal.@h\s\c11
+Shinki:Anyway,whatbusinessdidyouhavein\n
+Makaiagain?\s\c15
+Reimu:LikeI'vebeensaying!\n
+Recently,there'sbeentoomany \n
+demonscomingtothehumanworld! \s
+Reimu:Sinceyou'rethegodoftheirworld,\n
+dosomethingaboutit!!\s\c11
+Shinki:IguessIhavenochoice.Indeferencetothat\n
+strengthofyours,Ishalldosomething \n
+aboutit... \s\c15
+Reimu:Yes,pleasedo.\n\c11
+Shinki:Fine,fine.@t\s\c15
+Reimu:Wellthen,I'llbeleaving.@h\s\c11
+Shinki:(Sobsob) \n
+(Shejustwreckedthisplaceandwenthome...)\s\c
+\wo4 \m,ed01 \p,edbk1.pi \p= \p,ed06.pi \=1 \wi2  \c
+Aftersometime...\s 
+\p,ed07.pi
+\==0,4 \c15
+Reimu:Peacehasfinallyreturned.@H\n
+(Thisplacealwaysfeelspeacefulthough.@t)\s
+Reimu:Now,IwonderwhatIshoulddo. \s
+Reimu:・・・・\s
+Reimu:Fornow,I'llstartbysweepingthegrounds... \s\v4
+Reimu:・・・・・・\s\v
+\==1,4
+Reimu:Aaah,intheend,Ihavenothingelsetodo...\s
+Reimu:Whenit'speaceful,Igetsobored. \s
+Reimu:Uugh.\s
+\==2,4
+Reimu:...Huh?\s
+Reimu:What'sthis?\n
+Somethingisshiningoverthere...\s
+Reimu:・・・@?\s
+\p,ed08.pi
+\==0,4
+Reimu:Ah?\s
+Reimu:It'sgettingcloser...\s
+Reimu:Ah,soitwasjustademon...\s
+\==1,4
+Reimu:Iwonderifshewasleftbehindin \n
+thisworldaftertheincident? \s
+Reimu:Well,it'sokayifIjustgetridof\n
+her,but...\s
+Reimu:Thistime,Idon'tknowifI'mreally\n
+thatresponsibleforthis,sowhydon't\n
+Ijustleaveheralone...@t\s
+Reimu:Hmm.\s
+\==2,4
+Reimu:Well,sinceIhavetimetospare,maybe\n
+Ishouldcatchherandkeepherasapet?@t\s
+\==3,4
+Reimu:Yeah,myhomeisoneweirdshrine.@t@t\s
+Reimu:Hm?\s
+\p,ed09.pi
+Reimu:Aah?
+\==0,4
+\w32
+\==1,4
+\w32
+\==2,4
+\w32
+\==3,4 \s-
+Reimu:Er,hey!@t@t\s
+Reimu:Whatisgoingon?\n
+Thedemonsstartedmultiplying\n
+allofasudden!@t@t\s
+Reimu:IhopethatShinkiiskeepingherpromise...@20\s
+\p,ed10.pi
+\==0,8 \c11
+Shinki:Youcalled?\s\c15
+Reimu:Idid.@20\s\c11
+Shinki:・・・\n\c15
+Reimu:・・・\s
+Reimu:So,whatareyoudoinghere?@t\s\c11
+Shinki:I'msorry,theyaren'tlisteningtome.@t\s
+Shinki:No,well,yousee,somehow,thedenizensof \n
+Makaifoundoutaboutthehumanworldand \n
+managedtoobtainthepowertomakeahole \n
+inthebarrier.@t\s
+Shinki:Andwiththat,itseemstheymadeithere\n
+withoutanyrelationtome.@t\s\c15
+Reimu:Sothatmeans...\s\c11
+Shinki:Yes,Iguessthatmeansitendedupsothat \n
+theycannowcomeoverhereatanytime, \n
+inanyplace. \s\c15
+Reimu:Hey,whatdoyoumeanby"Iguessthatmeans"?@t\s\c11
+Shinki:Sorry,butIcan'tdoanything\n
+aboutitanymore.@t\s\c15
+Reimu:Butevenso,you'reagod!@t\s\c11
+Shinki:Er,well,yousee...@t\s
+Shinki:Anyway,haveaniceday.\s\c15
+Reimu:Hey,you!@t\s\c11
+\==1,4
+Shinki:Seeya!@t\s\c15
+Reimu:Heeey!@20\s
+Reimu:WhatamIsupposedtodonow?@t\s
+Reimu:・・・・・・\s
+Reimu:I'mdefinitelygettingmyrevenge,gotit!!\s
+Reimu:Beprepared!!\s\c11
+Shinki:@t@t\s \c \v4
+Intheend,whetherthedemonswerethereornot,\n
+aslongasReimuwasthere,theuproaratthe \n
+HakureiShrinewouldnotbesettled.Oh,well. \s
+　　　　============================================\n
+　　　　　　　　ＧＯＯＤ　ＥＮＤＩＮＧ　＃１\n
+　　　　　　　Ｃｏｎｇｒａｔｕｌａｔｉｏｎｓ@!!\n
+　　　　============================================\s
+\fm4 \fo10 
+\$

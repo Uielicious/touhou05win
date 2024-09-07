@@ -1,0 +1,39 @@
+
+Begin Extra Stage
+
+View Replays
+View High Scores
+Enter Music Room
+Change Settings
+Return to WINDOWS
+Begin Game (Easy)
+Begin Game (Normal)
+Begin Game (Hard)
+Begin Game (Lunatic)
+Begin Practice (Easy)
+Begin Practice (Normal)
+Begin Practice (Hard)
+Begin Practice (Lunatic)
+
+Change the amount of starting lives (excludes Extra)
+Change the amount of starting bombs (excludes Extra)
+
+
+
+Restore Default Settings
+Close Options
+No BGM
+Use 26k-compatible BGM
+Use 86k-compatible BGM
+Use MIDI BGM
+Use WAVE BGM
+No SFX
+Use Beep SFX
+Use FM SFX
+Use WAVE SFX
+Slowdown only occurs depending on your computer hardware (default)
+Artificially slow down the game when many enemy bullets are present (for beginners)
+Set Difficulty to Easy         (for beginners)
+Set Difficulty to Normal     (for most people)
+Set Difficulty to Hard    (for arcade players)
+Set Difficulty to Lunatic       (for STG pros)

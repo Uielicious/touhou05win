@@ -504,7 +504,7 @@ namespace th5w {
 #endif
 						CGame::GVar().m_bPracticeMode = false;
 						CGame::GVar().m_bReplayMode = false;
-						CGame::GVar().m_bplayCollisionArea = false;
+						CGame::GVar().m_bplayCollisionArea = true;
 						CGame::GVar().m_demonum = 0;
 						m_bQuit = true;
 						m_quitCode = TITLESCREEN_END_START_GAME;
@@ -524,7 +524,7 @@ namespace th5w {
 						CGame::GVar().m_playStage = 6;
 						CGame::GVar().m_bPracticeMode = false;
 						CGame::GVar().m_bReplayMode = false;
-						CGame::GVar().m_bplayCollisionArea = false;
+						CGame::GVar().m_bplayCollisionArea = true;
 						CGame::GVar().m_demonum = 0;
 						m_bQuit = true;
 						m_quitCode = TITLESCREEN_END_START_EXTRA;
@@ -568,7 +568,7 @@ namespace th5w {
 					CGame::GVar().m_playDifficulty = 3;
 					CGame::GVar().m_bPracticeMode = false;
 					CGame::GVar().m_bReplayMode = false;
-					CGame::GVar().m_bplayCollisionArea = false;
+					CGame::GVar().m_bplayCollisionArea = true;
 					CGame::GVar().m_demonum %= 4;
 					CGame::GVar().m_demonum++;
 					CGame::GVar().m_playChara = CGame::GVar().m_demonum - 1;

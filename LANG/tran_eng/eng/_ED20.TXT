@@ -1,0 +1,24 @@
+\t0 \p,white.pi \p= \fi1 
+\t200 \p,edbk1.pi \p= \p,ed01.pi \=1 \p,ed15.pi \wi2 \c
+Afterthat...\s
+\m,ed02 \==0,4\c15
+Reimu:Well,ifyou'redonesweepingoverthere,\n
+cleanoverhereaswell,please!@H\s\c11
+Alice:(Sobsob)@t\s\c15
+Reimu:Isthatallyouhavetosay?\s\c11
+Alice:WhydoIhavetodosomethinglikethis?@t\s\c15
+Reimu:What,areyoucomplaining,eventhough\n
+you'resoweak?\s\c11
+Alice:I'msorry.@t\s\c15
+Reimu:Aspunishmentforwreakinghavocinthis \n
+world,you'regoingtoworkformefora \n
+while.@h \s\c11
+Alice:(Sobsob)@t\s \c
+Intheend,eventhemagiciansofMakai \n
+werenomatchforReimu. \s
+　　　　============================================\n
+　　　　　　　　ＥＸＴＲＡ　ＥＮＤＩＮＧ　＃１\n
+　　　　　　　Ｃｏｎｇｒａｔｕｌａｔｉｏｎｓ@!!\n
+　　　　============================================\s
+\fm4 \fo10 
+\$

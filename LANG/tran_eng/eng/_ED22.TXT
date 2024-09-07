@@ -1,0 +1,26 @@
+\t0 \p,white.pi \p= \fi1 
+\t200 \p,edbk2.pi \p= \p,ed13.pi \=0 \p,ed15.pi \wi2 \c
+Afterthat...\s
+\m,ed02 \==2,4 \c11
+Alice:Howdoesittaste?\s\c15
+Mima:Itshouldbe"Whatdoyouthinkofthe\n
+taste,Master",right?\s\c11
+Alice:Whatdoyouthinkofthetaste,Master?@5\s\c15
+Mima:Notgoodenough.\s\c11
+Alice:WhydoIhavetodosomethinglikethis?@t\s\c15
+Mima:Shallwecontinue? \s\c11
+Alice:Waaah!@t\s\c15
+Mima:Well,sincethatMakaigoddessShinkihada \n
+maid,Iwantedone,too. \s\c11
+Alice:(Sobsob)Ishouldn'thavebecomethis \n
+person'sopponent...@t \s\c15
+Mima:Anyway,brewthisboozeagain.\s\c11
+Alice:Waaah!@t\s \c
+AndthenMimathoughtaboutbecoming \n
+agodforreal.Hmm. \s
+　　　　============================================\n
+　　　　　　　　ＥＸＴＲＡ　ＥＮＤＩＮＧ　＃３\n
+　　　　　　　Ｃｏｎｇｒａｔｕｌａｔｉｏｎｓ@!!\n
+　　　　============================================\s
+\fm4 \fo10 
+\$

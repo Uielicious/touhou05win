@@ -1,0 +1,39 @@
+\t0 \p,white.pi \p= \fi1 
+\t200 \p,edbk0.pi \p= \p,ed01.pi \wi2 
+\==0,2 \c11
+Shinki:Hmhmhm...\n
+Wereyouplanningtodefeatmewiththat\n
+amountofpower?\s\c15
+Mima:・・・・・・\s\c11
+Shinki:Youstillhavealongwaytogo.\n
+Don'tcomeagain!!\s\c
+\wo4
+\m,ed00 \p,edbk2.pi \p= \p,ed04.pi \=2 \wi2  \c
+Afterthat...\s 
+\p,ed04.pi
+\==0,3 \c15
+Mima:Aah,Ilost...\s
+Mima:LookslikeevenIhavealongwaytogo...\s\v8
+Mima:・・・・・・\s\v
+\==1,4
+Mima:Er,well,myopponentwasaGOD,right?@t@t \n
+Hmm.\s
+Mima:Well,whatever.@t\c14(Isthatreallyokay?)\c15\s
+Mima:Fornow,I'lljustgopickonReimuorsomeone.@h\s\c11
+\==2,4
+Reimu:Whatdidyoucometodothistime?@t@t\s\c15
+Mima:Well,IwasboredandfiguredIcouldpass\n
+thetimebywreckingyourshrine.\s\c11
+\==3,4
+Reimu:Whatareyoutalkingaboutinthemiddle\n
+ofthenight?@t@tGetlostalready.\s\c15
+Mima:ItoldyouI'mbored.@h\s\c11
+Reimu:Whattheheck?@t\s\c
+UntilShinkiwasdefeated,Mimawould\n
+notbesatisfied(orsoitshouldbe).\s
+　　　　============================================\n
+　　　　　　　　ＢＡＤ　ＥＮＤＩＮＧ　＃３\n
+Trytoclearthegamewithoutusingcontinues!\n
+　　　　============================================\k
+\fm4 \fo10
+\$

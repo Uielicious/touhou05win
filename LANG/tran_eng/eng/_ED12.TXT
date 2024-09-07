@@ -1,0 +1,69 @@
+\t0 \p,white.pi \p= \fi1 
+\t200 \p,edbk0.pi \p= \p,ed06.pi \wi2 
+\==0,2 \c11
+Shinki:I'velost...\s\c15
+Mima:SomegoddessofMakaiyouare.\s\c11
+Shinki:Whoareyou,anyway?!@t\s\c15
+Mima:LikeIsaid,I'mthegodofthehumanworld.\n
+(Thisisalie.)\s\c11
+Shinki:Erm...@t\s
+Shinki:ButifIremembercorrectly,thatworld\n
+hasabouteightmilliongods,right?\s\c15
+Mima:Ah,well...@t\s\c11
+Shinki:So,whyhasoneoftheeightmillion\n
+comehere?@t\s\c15
+Mima:Toblowoffsomestress,Iguess? \s\c11
+Shinki:That'sasillyexcuse.\s\c15
+Mima:Well,I'venomorereasontoremainhere.\s\c11
+Shinki:Excuseme?\s\c15
+Mima:Then,I'llleaveitatthat.\s\c11
+Shinki:Please,don'tevercomehereagain...\s\c
+\wo4 \m,ed02 \p,edbk2.pi \p= \p,ed12.pi \=2 \wi2  \c
+Aftersometime...\s 
+\==0,4 \c15
+Mima:It'sbeensolongsinceI'vefoughtlike \n
+that.I'mworn-out...\s
+Mima:Butstill...\s
+Mima:Ifsomeonethatweakcouldbecomeagod,\n
+thenIwonderifIcan,too?\s
+Mima:Oneoutofeightmillion...@t\s
+Mima:Hmm...\s
+Mima:So,whatdoIdotobecomeagod,anyway?\s
+Mima:Forthatmatter,wassheactuallyagod?@t\s
+Mima:Ifshewas,thenmaybeReimumightbeclose\n
+tobecomingone,too.\s
+Mima:・・・\s
+\==1,4
+Mima:Well,beingaphantomissomuchmorefun.@19\s
+Mima:Evenso,hmm...\n
+IfeellikeI'mforgettingsomething...\s
+Mima:Hmm,whatwasit?\s
+Mima:Ohwell,I'llheadtotheshrinefornow. \s\c
+\p,ed13.pi
+\==0,4
+Afterthat...\s
+\==1,4 \c15
+Mima:Andthat'swhyIdecidedtolookmore\n
+likeaphantom.\S\c11
+Reimu:Whattheheckisthis?@t\S\c15
+Mima:Oh,this?@T\s\c11
+Reimu:Bedsheets?\s\c15
+Mima:DoIlooklikeaghost?\s\c11
+Reimu:Oh,comeon!I'mreallybusyatthemoment.\s\c15
+Mima:Huh?Withwhat?\s\c11
+Reimu:Recently,thenumberofdemonshasbeenhuge!\s\c15
+Mima:Ah...\s\c11
+Reimu:Well,ifyou'vegotsomuchfreetime,\n
+goexterminatesome!@T\s\c15
+Mima:That'sit,that'swhatIwasforgetting...\s\c11
+Reimu:Huh,aboutwhat?Abouthelpingme?\s\c15
+Mima:No,Iwasn'tplanningtodothat.\s\c
+Intheend,thoughtheshrinehadbeenteeming \n
+withdemons,itseemsitwasfineforMimasince \n
+shehadfunwhilefighting.Oh,well... \s
+　　　　============================================\n
+　　　　　　　　ＧＯＯＤ　ＥＮＤＩＮＧ　＃３\n
+　　　　　　　Ｃｏｎｇｒａｔｕｌａｔｉｏｎｓ@!!\n
+　　　　============================================\s
+\fm4 \fo10 
+\$

@@ -1,0 +1,24 @@
+\t0 \p,white.pi \p= \fi1 
+\t200 \p,edbk1.pi \p= \p,ed01.pi \=1 \p,ed15.pi \wi2 \c
+Afterthat...\s
+\m,ed02 \==1,4 \c15
+Marisa:I'lltakethisbook,okay.@H \s\c11
+Alice:Hey!Letmedown!@t\s\c15
+Marisa:It'llbegoodifyoureflectonyour \n
+actionswhileyou'rethere.@h \s\c11
+Alice:"It'llbegood"myfoot!@20 \s
+Alice:Howlongareyougoingtokeepmehanging\n
+likethis?@t\s\c15
+Marisa:UntilIcanlearnallthemagichere. \s\c11
+Alice:I'mtellingyou,thiskindofmagicis\n
+impossibleforhumans!@t\s\c15
+Marisa:Then,you'llbethereforeverright.@19 \s\c11
+Alice:Heeey!@t\s \c
+Intheend,wasMarisaabletolearnthe \n
+ultimatemagic? \s \c
+　　　　============================================\n
+　　　　　　　　ＥＸＴＲＡ　ＥＮＤＩＮＧ　＃２\n
+　　　　　　　Ｃｏｎｇｒａｔｕｌａｔｉｏｎｓ@!!\n
+　　　　============================================\s
+\fm4 \fo10 
+\$

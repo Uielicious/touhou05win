@@ -1,0 +1,23 @@
+\t0 \p,white.pi \p= \fi1 
+\t200 \p,edbk2.pi \p= \p,ed16.pi \=0 \p,ed15.pi \wi2 \c
+Afterthat...\s
+\m,ed02 \==3,4 \c15
+Yuuka:Hmhmhm,thistime,let'sfollowthisgirl \n
+around.@h \s
+Yuuka:Andthen,let'stakeawayhermagic.@h \s\c11
+Alice:Afterthat,Iwasabletosafelyreturnto \n
+Makai,but...\s
+Alice:Somehow,Igettheunpleasantfeeling \n
+thatI'mbeingwatched...@t\s\c15
+Yuuka:Hmhmhm...@h\s\c11
+Alice:(Shiver@t)\s
+Alice:IwonderifIcaughtacold?@t \n
+I'mgettingthechills.@t@t \s\c
+NotevenAliceusedtheultimatemagic \n
+onadailybasis... \s
+　　　　============================================\n
+　　　　　　　　ＥＸＴＲＡ　ＥＮＤＩＮＧ　＃４\n
+　　　　　　　Ｃｏｎｇｒａｔｕｌａｔｉｏｎｓ@!!\n
+　　　　============================================\s
+\fm4 \fo10 
+\$

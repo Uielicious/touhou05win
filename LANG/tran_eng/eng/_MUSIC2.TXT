@@ -1,0 +1,240 @@
+No.1       << –²‚ÍŽž‹ó‚ð‰z‚¦‚Ä >>     
+  “Œ•û–²Žž‹ó  Title theme             
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+No.2          << Selection >>         
+  “Œ•û–²Žž‹ó Character Selection theme
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+No.3          << “Œ•û—d—ö’k >>        
+  “Œ•û–²Žž‹ó  Reimu Hakurei's theme   
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+No.4        << Reincarnation >>       
+  “Œ•û–²Žž‹ó  Mima's theme            
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+No.5          << Dim. Dream >>        
+  “Œ•û–²Žž‹ó  Marisa Kirisame's theme 
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+No.6   << Tabula Rasa  ` ‹ó”’­— >> 
+  “Œ•û–²Žž‹ó  Ellen's theme           
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+No.7      << Maniacal Princess >>     
+  “Œ•û–²Žž‹ó  Kotohime's theme        
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+No.8    << –²ÁŽ¸  ` Lost Dream >>   
+  “Œ•û–²Žž‹ó  Kana Anaberal's theme   
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+No.9    << –²Œ¶—V‹Y  ` Dream War >>  
+  “Œ•û–²Žž‹ó  Rikako Asakura's theme  
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+No.10  <<–‚–@ŒˆíI ` Fight it Out!>>
+  “Œ•û–²Žž‹ó  Round 7 CPU Battle theme
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+No.11       << Sailor of Time >>      
+  “Œ•û–²Žž‹ó                          
+         Chiyuri Kitashirakawa's theme
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+No.12     << Strawberry Crisis!! >>   
+  “Œ•û–²Žž‹ó  Yumemi Okazaki's theme  
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+No.13      << ”ñ“ˆê–‚–@¢ŠE˜_ >>     
+  “Œ•û–²Žž‹ó  Boss Demo theme         
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+No.14          << –‚–@àˆ¤ >>         
+  “Œ•û–²Žž‹ó  Yumemi Demo theme       
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+No.15          << ‹v‰“‚Ì–² >>         
+  “Œ•û–²Žž‹ó  Common Ending theme     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+No.16        << “Œ•û‚ÌÂ‚¢‹ó >>       
+  “Œ•û–²Žž‹ó  Daytime Ending theme    
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+No.17          << ‰i‰“‚Ì–žŒŽ >>       
+  “Œ•û–²Žž‹ó  Nighttime Ending theme  
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+No.18        << Maple Dream... >>     
+  “Œ•û–²Žž‹ó  Staff Roll theme        
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+No.19          << —ìl‚Ì‹x“ú >>       
+  “Œ•û–²Žž‹ó  Name Registration theme 
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+No.20           << Ÿ—˜ƒfƒ‚ >>        
+  “Œ•û–²Žž‹ó  Victory Demo            
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+No.21         << ƒQ[ƒ€ƒI[ƒo[ >>    
+  “Œ•û–²Žž‹ó  Game Over               
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+No.22           << Žž‚Ì•— >>          
+  “Œ•û–²Žž‹ó  Unused music 1          
+I used this as I was building the game
+system before I made any characters.  
+There weren't any characters that     
+really fit this song, so I tossed it. 
+;                                     
+;                                     
+;                                     
+;                                     
+No.23      << ƒXƒ^[ƒ{ƒEƒhƒŠ[ƒ€ >>   
+  “Œ•û–²Žž‹ó  Unused music 2          
+A very spacey (?) song. I don't make  
+many songs like this one. It's the    
+only one that really seems like it's a
+STG song, but (because of that?)      
+I tossed it. (Because there aren't any
+characters that fit this song!)       
+;                                     
+;                                     
+No.24        << Phantasmagoria >>     
+  “Œ•û–²Žž‹ó  Unused music 3          
+For some reason, this song that       
+actually has a pyramid feel to it     
+got tossed. I wonder what kind of     
+character would go with this song?    
+;                                     
+;                                     
+;                                     
+;                                     

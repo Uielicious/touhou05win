@@ -57,11 +57,57 @@ namespace th5w {
 
 		CCommonFunctionGraphic::LoadPIFromDat(&m_pBGImage, m_palette, &CGame::s_pCurGame->m_th5Dat1, "SLB1.PI");
 
-		CCommonFunctionGraphic::LoadCD2CDGAllSpriteFromDat(&m_spriteArray, &CGame::s_pCurGame->m_th5Dat1, "SL00.CDG", m_palette);
-		CCommonFunctionGraphic::LoadCD2CDGAllSpriteFromDat(&m_spriteArray, &CGame::s_pCurGame->m_th5Dat1, "SL01.CDG", m_palette);
-		CCommonFunctionGraphic::LoadCD2CDGAllSpriteFromDat(&m_spriteArray, &CGame::s_pCurGame->m_th5Dat1, "SL02.CDG", m_palette);
-		CCommonFunctionGraphic::LoadCD2CDGAllSpriteFromDat(&m_spriteArray, &CGame::s_pCurGame->m_th5Dat1, "SL03.CDG", m_palette);
-		CCommonFunctionGraphic::LoadCD2CDGAllSpriteFromDat(&m_spriteArray, &CGame::s_pCurGame->m_th5Dat1, "SL04.CDG", m_palette);
+
+		int mrdx = CGame::s_pCurGame->m_modDat.GetChildFileIndex("SL00.CDG");
+		if (mrdx != -1)
+		{
+			CCommonFunctionGraphic::LoadCD2CDGAllSpriteFromDat(&m_spriteArray, &CGame::s_pCurGame->m_modDat, "SL00.CDG", m_palette);
+		}
+		else
+		{
+			CCommonFunctionGraphic::LoadCD2CDGAllSpriteFromDat(&m_spriteArray, &CGame::s_pCurGame->m_th5Dat1, "SL00.CDG", m_palette);
+		}
+
+		int mmdx = CGame::s_pCurGame->m_modDat.GetChildFileIndex("SL01.CDG");
+		if (mmdx != -1)
+		{
+			CCommonFunctionGraphic::LoadCD2CDGAllSpriteFromDat(&m_spriteArray, &CGame::s_pCurGame->m_modDat, "SL01.CDG", m_palette);
+		}
+		else
+		{
+			CCommonFunctionGraphic::LoadCD2CDGAllSpriteFromDat(&m_spriteArray, &CGame::s_pCurGame->m_th5Dat1, "SL01.CDG", m_palette);
+		}
+
+		int mmidx = CGame::s_pCurGame->m_modDat.GetChildFileIndex("SL02.CDG");
+		if (mmidx != -1)
+		{
+			CCommonFunctionGraphic::LoadCD2CDGAllSpriteFromDat(&m_spriteArray, &CGame::s_pCurGame->m_modDat, "SL02.CDG", m_palette);
+		}
+		else
+		{
+			CCommonFunctionGraphic::LoadCD2CDGAllSpriteFromDat(&m_spriteArray, &CGame::s_pCurGame->m_th5Dat1, "SL02.CDG", m_palette);
+		}
+
+		int mydx = CGame::s_pCurGame->m_modDat.GetChildFileIndex("SL03.CDG");
+		if (mydx != -1)
+		{
+			CCommonFunctionGraphic::LoadCD2CDGAllSpriteFromDat(&m_spriteArray, &CGame::s_pCurGame->m_modDat, "SL03.CDG", m_palette);
+		}
+		else
+		{
+			CCommonFunctionGraphic::LoadCD2CDGAllSpriteFromDat(&m_spriteArray, &CGame::s_pCurGame->m_th5Dat1, "SL03.CDG", m_palette);
+		}
+
+		int fldx = CGame::s_pCurGame->m_modDat.GetChildFileIndex("SL04.CDG");
+		if (fldx != -1)
+		{
+			CCommonFunctionGraphic::LoadCD2CDGAllSpriteFromDat(&m_spriteArray, &CGame::s_pCurGame->m_modDat, "SL04.CDG", m_palette);
+		}
+		else
+		{
+			CCommonFunctionGraphic::LoadCD2CDGAllSpriteFromDat(&m_spriteArray, &CGame::s_pCurGame->m_th5Dat1, "SL04.CDG", m_palette);
+		}
+
 		CCommonFunctionGraphic::LoadCD2CDGAllSpriteFromDat(&m_spriteArray, &CGame::s_pCurGame->m_th5Dat1, "SLCL.CDG", m_palette);
 
 		m_curScrFade = 0;

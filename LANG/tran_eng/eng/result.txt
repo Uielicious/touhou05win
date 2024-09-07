@@ -1,0 +1,18 @@
+           Play Result
+Difficulty
+Score
+Misses
+Bombs
+Completion
+Enemies
+Power Item
+Point Item
+Focus
+Slowdown
+
+Your Skill
+点
+×
+％
+？？？？？？点
+Unable to assess

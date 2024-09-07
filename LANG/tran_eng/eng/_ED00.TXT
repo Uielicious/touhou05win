@@ -1,0 +1,31 @@
+ \t0 \p,white.pi \p= \fi1 
+\t200 \p,edbk0.pi \p= \p,ed01.pi \wi2
+\==0,2 \c11
+Shinki:Hmhmhm...\n
+Wereyouplanningtodefeatmewiththat\n
+amountofpower?\s\c15
+Reimu:D-damnit!@t\s\c11
+Shinki:Youstillhavealongwaytogo.\n
+Don'tcomeagain!!\s\c\wo4
+\m,ed00 \p,edbk1.pi \p= \p,ed01.pi \=1 \wi2 \c
+Afterthat...\s 
+\p,ed02.pi
+\==0,3 \c15
+Reimu:Aah,eventhoughit'smyshrine,@t\n
+therearesomanydemonshere...@t@t \s
+Reimu:IhavetogobacktoMakaiatsomepoint.@t@t\s
+Reimu:Ugh.\s \v4
+Reimu:Butstill...\s \v
+\=1
+Reimu:Havingtotrainisreallybothersome,huh...\s
+Reimu:...Uhmmmm.\s
+Reimu:Well,whatever,let'sgotoMakaioncemore.\s\c
+\==2,3
+Andwiththat,withouthavingtrained\n
+sufficiently,sheheadedforMakaioncemore.\s
+　　　　============================================\n
+　　　　　　　　ＢＡＤ　ＥＮＤＩＮＧ　＃１\n
+Trytoclearthegamewithoutusingcontinues!\n
+　　　　============================================\s
+\fm4 \fo10 
+\$

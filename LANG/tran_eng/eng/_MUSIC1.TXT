@@ -1,0 +1,180 @@
+No.1   << “Œ•û••–‚˜^ ` ò“y™Öä¶—… >> 
+     “Œ•û••–‚˜^  Title theme          
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+No.2     << ”Ž—í ` Eastern Wind >>   
+     “Œ•û••–‚˜^  Stage 1 theme        
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+No.3      << She's in a Temper!! >>   
+     “Œ•û••–‚˜^  Rika's theme         
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+No.4        << End of Daylight >>     
+     “Œ•û••–‚˜^  Stage 2 theme        
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+No.5         << ‚â‚Ý‚Ì‚¿‚©‚ç >>       
+     “Œ•û••–‚˜^  Meira's theme        
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+No.6            << Œ¶–²ŠE >>          
+     “Œ•û••–‚˜^  Stage 3 theme        
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+No.7          << Ž€‚ð“q‚µ‚Ä >>        
+     “Œ•û••–‚˜^  Stage 3 boss theme   
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+No.8    << ‚Ð‚à‚ë‚¬A‚Þ‚ç‚³‚«‚É‚à‚¦ >>
+     “Œ•û••–‚˜^  Stage 4 theme        
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+No.9         << —öFƒ}ƒWƒbƒN >>       
+     “Œ•û••–‚˜^  Marisa's theme       
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+No.10    << “Œ•û••–‚˜^ ` —HŒ¶—•‘ >> 
+     “Œ•û••–‚˜^  Final Stage theme    
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+No.11      << Complete Darkness >>    
+     “Œ•û••–‚˜^  Mima's theme         
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+No.12        << ƒGƒLƒXƒgƒ‰ƒ‰ƒu >>     
+     “Œ•û••–‚˜^  Extra Stage theme    
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+No.13     << íŽÔ‚Þ‚·‚ß‚Ì‚Ý‚é‚ä‚ß >>  
+     “Œ•û••–‚˜^  Rika's 2nd theme     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+No.14          << ‰“–ì‚ÌX >>         
+     “Œ•û••–‚˜^  Ending theme         
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+No.15      << Ì˜b‚í‚ñ‚¾[‚ç‚ñ‚Ç >>   
+     “Œ•û••–‚˜^  Staff Roll theme     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+No.16        << ”Ž—í_ŽÐ‹«“à >>       
+     “Œ•û••–‚˜^  Unused music 1       
+I made this, intending for it to be   
+the first stage theme, but...         
+Since the early songs in HRtP were so 
+dark, I thought I'd make this one     
+brighter, and it ended up like this.  
+However, I threw it out. (^^;         
+;                                     
+;                                     
+No.17          << —z—Ž‚¿‚Ä >>         
+     “Œ•û••–‚˜^  Unused music 2       
+I was going to use this for stage 2.  
+It's not bad, but...   It felt        
+half-hearted, so I threw it out.      
+;                                     
+;                                     
+;                                     
+;                                     
+;                                     
+No.18          << ••–‚I‰‰ >>         
+     “Œ•û••–‚˜^  Unused music 3       
+I had planned on using this for the   
+staff roll, but... The rhythm is so   
+light it's almost unthinkable now.(^^;
+It has a rather fine pedigree, but it 
+didn't balance well with the other    
+songs in the game, so I threw it out. 
+;                                     
+;                                     

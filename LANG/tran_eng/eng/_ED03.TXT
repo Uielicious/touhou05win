@@ -1,0 +1,36 @@
+\t0 \p,white.pi \p= \fi1 
+\t200 \p,edbk0.pi \p= \p,ed01.pi \wi2 
+\==0,2 \c11
+††Shinki:†Hmhmhm...†\n
+††††††††††Were†you†planning†to†defeat†me†with†that\n
+††††††††††amount†of†power?\s\c15
+†††Yuuka:†Well...†@t@t\s\c11
+††Shinki:†You†still†have†a†long†way†to†go.\n
+††††††††††Don't†come†again!!\s\c
+\wo4
+\m,ed00 \p,edbk1.pi \p= \p,ed01.pi \=1 \wi2  \c
+†††††††††††††††††††††††After†that...\s 
+\p,ed05.pi
+\==0,4 \c15
+†††Yuuka:†Huh?\s
+†††Yuuka:†How†could†I†have†lost...?†\s
+†††Yuuka:†Hmm...\s
+†††Yuuka:†Hmm,†I†see.†\s
+\==1,4
+†††Yuuka:†Must†have†been†tired†today.†\n
+††††††††††That's†probably†it.†\s
+†††Yuuka:†I'm†talking†about†you,†of†course.†\n
+††††††††††(Talking†about†who?†@t@t)†\s
+†††Yuuka:†Maybe†I'll†visit†her†some†other†day...\s
+†††Yuuka:†And†you,†please†select†me†when†you†feel†better.†@19
+††(Seriously,†who†are†you†talking†to?†@t@t)†\s
+\==2,4
+†††Yuuka:†Aah...\s\c
+††††††††††At†any†rate,†she†aimed†for†Makai†once†more\n
+††††††††††with†no†goal†in†mind.†@t\s
+Å@Å@Å@Å@============================================\n
+Å@Å@Å@Å@Å@Å@Å@Å@ÇaÇ`ÇcÅ@ÇdÇmÇcÇhÇmÇfÅ@ÅîÇS\n
+†††††††Try†to†clear†the†game†without†using†continues!†\n
+Å@Å@Å@Å@============================================\k
+\fm4 \fo10
+\$
